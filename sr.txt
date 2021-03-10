@@ -1,0 +1,14 @@
+My name is Aryan Bablu Kadar and my project is speech recognition.
+I have choosen this project to develop my python skills as it is challenging.
+Speech recognition as we all know is very usefull in daily life for searching any thing that we don't know.
+It also breaks the boundary of literacy as everyone can use even illiterate one.
+
+It works on a basic principle of converting audio from default microphone into text so that it can feed into google to search for that word.
+
+While handling this situation there are certain situation that become a reason for error that have to deal with ,First is error if the recognizer is unable to recognize for this error to occur the might be multiple reason fo eg:1.If the surrounding noise is much higher,person is not clearly speaking.
+
+This type of error is handle by using method of Recognizer class that reduce the surrounding noise and increace the speaker noise.
+
+The basic working of Speech Recognition if the default microphone capture the audio and store in audio file then after audio file is converted in audio data it is then search for the word in your default webbrowser.
+
+
