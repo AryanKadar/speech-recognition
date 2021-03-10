@@ -16,4 +16,4 @@ from mic so has to confirm that the person is done with his words.
 
 How to excecute:
 	1.Save the file and all image in one folder and then execute in python enviornment 
-	by typing "python sr.py". 
+	by typing "python sr.py",then click on mic button and speak any thing you would like to search on google.
